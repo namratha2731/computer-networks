@@ -1,0 +1,13 @@
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="car9" accel="2.5" decel="4.5" maxSpeed="67.0" /><vType id="car8" accel="2.5" decel="4.5" maxSpeed="36.0" /><vType id="car7" accel="2.5" decel="4.5" maxSpeed="636.0" /><vType id="car6" accel="2.5" decel="4.5" maxSpeed="636.0" /><vType id="car5" accel="2.5" decel="4.5" maxSpeed="53.0" /><vType id="car4" accel="2.5" decel="4.5" maxSpeed="46.0" /><vType id="car3" accel="2.5" decel="4.5" maxSpeed="5.0" /><vType id="car2" accel="2.5" decel="4.5" maxSpeed="4743.0" /><vType id="car1" accel="2.5" decel="4.5" maxSpeed="464.0" /><trip id="0" depart="0.00" from="-165473832#3" to="-577976192#2" type="car1" />
+    
+    <trip id="veh_3" depart="1.00" from="165473832#0" to="5671685#2" type="car2" />
+    <trip id="veh_4" depart="1.00" from="455687907#3" to="5670656" type="car3" />
+    <trip id="veh_5" depart="1.00" from="-196116967#10" to="165473832#3" type="car4" />
+    <trip id="veh_6" depart="1.00" from="-196116967#7" to="-165473832#0" type="car5" />
+    <trip id="veh_7" depart="1.00" from="5671119#2" to="-165473832#0" type="car6" />
+    <trip id="veh_8" depart="1.00" from="455687907#3" to="5672585#2" type="car7" />
+    <trip id="veh_9" depart="1.00" from="5672585#0" to="5671137#2" type="car8" />
+    <trip id="veh_1" depart="4.00" from="-165473832#3" to="243056525#0" type="car9" />
+    <trip id="veh_2" depart="6.00" from="-165473832#3" to="-455687907#2" type="car1" />
+</routes>
